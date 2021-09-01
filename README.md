@@ -7,8 +7,12 @@ The purpose of this analysis is to help Pyber, a ride sharing company, to visual
 ## Results
 
 We can clearly appreciate that, as expected, urban areas where we have higher concentrations of population are the cities that have the most rides and drivers, this is also noticeable in the average fare per ride, since we have a higher offer of drivers the costs tend to go down, and we can also think that the average distance in the urban cities is lower comparing it to rural or suburban areas. 
-There’s an enormous difference in rural and urban in terms of demand and offer of drivers, that is also appreciated in the other columns 
- 
+There’s an enormous difference in rural and urban in terms of demand and offer of drivers, that is also appreciated in the other columns.
+
+![alt text](https://github.com/MauricioIQA/Module-5/blob/main/Resources/TABLE.PNG)
+
+![alt text](https://github.com/MauricioIQA/Module-5/blob/main/Resources/PyBer_fare_summary.png)
+
 ## Summary
 
 I would recommend the CEO:
